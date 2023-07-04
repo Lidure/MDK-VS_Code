@@ -1,0 +1,16 @@
+#详细过程
+
+补充：这里主要讲解了STM32的HAL库（CubeMX）移植，
+原因很简单：相较于51单片机以及标准库的移植有一定差异（有困难）
+
+这里对于HAL库的工程基本创建就不多赘述了；
+-------需要注意的是：   在使用CubeMX创建完工程后，一定要打开工程（进入Keil中），这样RAM以及ROM的地址就被读入了，之后就不用在VS CODE中修改地址了。-----------
+
+
+同理，VS-CODE的下载以及环境的搭建本篇不予说明。
+
+首先，需要在VS CODE中，找到以下插件：   EIDE、   Keil Assistant    如下图：
+[Image text]!
+(https://github.com/Lidure/MDK-VS-CODE/blob/main/Screenshots/1.png)
+[Image text]!
+(https://github.com/Lidure/MDK-VS-CODE/blob/main/Screenshots/2.png)
