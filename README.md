@@ -1,7 +1,7 @@
 # MDK-VS-CODE
 用于记录与回顾，当然希望可以帮到人
  
-详细请查看文件---**进程.md**
+详细请查看文件---**进程.md** <a href="https://github.com/Lidure/MDK-VS-CODE/blob/117cfcd35b1d3fca4d07bf7e5835ebb18068f417/%E8%BF%9B%E7%A8%8B">详细过程</a>
 
 
 ## 优点：
